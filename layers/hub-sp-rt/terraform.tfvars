@@ -1,0 +1,6 @@
+route_name1 = "hub-s1"
+route_name2 = "hub-s2"
+route_name3 = "appgw-s1"
+route_name4 = "appgw-s2"
+rt_table_name = "hub-spokes"
+next_hop_type = "VirtualAppliance"

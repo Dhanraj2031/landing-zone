@@ -1,0 +1,7 @@
+route_name_1 = "s1-s2"
+route_name_2 = "s1-op"
+route_name3 = "s1-appgw"
+route_name4 = "s1-out"
+rt_table_name = "s1_s2_rt"
+address_prefix = "0.0.0.0/0"
+next_hop_type = "VirtualAppliance"
